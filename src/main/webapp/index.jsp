@@ -6,7 +6,8 @@
 	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS CI/CD</h1>
-        <h1 style="color: back; font-size: 40px;" align="center">THIS IS nexus integration</h1>
+        <h1 style="color: black; font-size: 40px;" align="center">THIS IS nexus integration</h1>
+        <h1 style="color: green; font-size: 40px;" align="center">THIS is nexus integration manual process</h1>
 	
 	
 	
